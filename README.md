@@ -29,10 +29,10 @@ Aplicar estos principios mejora la calidad del software, facilita su evolución 
 
 ## Índice
 
-1. [SOLID](SOLID/README.md)
-2. [KISS](KISS/README.md)
-3. [DRY](DRY/README.md)
-4. [YAGNI](YAGNI/README.md)
+1. [SOLID](solid/README.md)
+2. [KISS](kiss/README.md)
+3. [DRY](dry/README.md)
+4. [YAGNI](yagni/README.md)
 
 Cada carpeta contiene:
 - Un `README.md` con la explicación del principio.
