@@ -1,6 +1,6 @@
-# 🌟 Principios de Diseño de Software
+# Principios de Diseño de Software
 
-Bienvenido a este repositorio, donde encontrarás ejemplos y explicaciones sobre los principales **principios de diseño de software**: SOLID, KISS, DRY, YAGNI, y cómo combinarlos con patrones de diseño.
+Bienvenido a este repositorio, donde encontrarás ejemplos y explicaciones sobre los principales **principios de diseño de software**: SOLID, KISS, DRY y YAGNI.
 
 ---
 
@@ -21,30 +21,39 @@ Aplicar estos principios mejora la calidad del software, facilita su evolución 
 
 ## Índice
 
-1. [SOLID](SOLID/README.md)
-2. [KISS](KISS/README.md)
-   - [Ejemplos por lenguaje](KISS/ejemplos/README.md)
-     - [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="20"/> TypeScript](KISS/ejemplos/typescript/README.md)
-     - [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20"/> Java](KISS/ejemplos/java/README.md)
-     - [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> Python](KISS/ejemplos/python/README.md)
-     - [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="20"/> C#](KISS/ejemplos/csharp/README.md)
-     - [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="20"/> PHP](KISS/ejemplos/php/README.md)
-     - [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="20"/> Ruby](KISS/ejemplos/ruby/README.md)
-     - [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="20"/> Go](KISS/ejemplos/go/README.md)
-3. [DRY](DRY/README.md)
-   - [Ejemplos por lenguaje](DRY/ejemplos/README.md)
-     - [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="20"/> TypeScript](DRY/ejemplos/typescript/README.md)
-     - [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20"/> Java](DRY/ejemplos/java/README.md)
-     - [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> Python](DRY/ejemplos/python/README.md)
-     - [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="20"/> C#](DRY/ejemplos/csharp/README.md)
-     - [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="20"/> PHP](DRY/ejemplos/php/README.md)
-     - [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="20"/> Ruby](DRY/ejemplos/ruby/README.md)
-     - [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="20"/> Go](DRY/ejemplos/go/README.md)
-4. [YAGNI](YAGNI/README.md)
+1. [SOLID](solid/README.md)
+2. [KISS](kiss/README.md)
+   - [Ejemplos por lenguaje](kiss/ejemplos/README.md)
+     - [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="20"/> TypeScript](kiss/ejemplos/typescript/README.md)
+     - [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20"/> Java](kiss/ejemplos/java/README.md)
+     - [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> Python](kiss/ejemplos/python/README.md)
+     - [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="20"/> C#](kiss/ejemplos/csharp/README.md)
+     - [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="20"/> PHP](kiss/ejemplos/php/README.md)
+     - [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="20"/> Ruby](kiss/ejemplos/ruby/README.md)
+     - [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="20"/> Go](kiss/ejemplos/go/README.md)
+3. [DRY](dry/README.md)
+   - [Ejemplos por lenguaje](dry/ejemplos/README.md)
+     - [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="20"/> TypeScript](dry/ejemplos/typescript/README.md)
+     - [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20"/> Java](dry/ejemplos/java/README.md)
+     - [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> Python](dry/ejemplos/python/README.md)
+     - [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="20"/> C#](dry/ejemplos/csharp/README.md)
+     - [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="20"/> PHP](dry/ejemplos/php/README.md)
+     - [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="20"/> Ruby](dry/ejemplos/ruby/README.md)
+     - [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="20"/> Go](dry/ejemplos/go/README.md)
+4. [YAGNI](yagni/README.md)
+   - [Ejemplos por lenguaje](yagni/ejemplos/README.md)
+        - [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="20"/> TypeScript](yagni/ejemplos/typescript/README.md)
+        - [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20"/> Java](yagni/ejemplos/java/README.md)
+        - [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> Python](yagni/ejemplos/python/README.md)
+        - [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="20"/> C#](yagni/ejemplos/csharp/README.md)
+        - [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="20"/> PHP](yagni/ejemplos/php/README.md)
+        - [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="20"/> Ruby](yagni/ejemplos/ruby/README.md)
+        - [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="20"/> Go](yagni/ejemplos/go/README.md)
 
-Cada carpeta contiene:
-- Un `README.md` con la explicación del principio.
-- Un archivo `example.js` o equivalente con ejemplos de código ejecutables.
+Cada principio tiene:
+
+- Un `README.md` con la explicación y ejemplos del principio.
+- Una carpeta `ejemplos` con subcarpetas por lenguaje, cada una con su propio `README.md` y ejemplos de código.
 
 ---
 
