@@ -115,12 +115,12 @@ Consulta los ejemplos prácticos en distintos lenguajes en la carpeta [`ejemplos
 
 ---
 
-## Recursos y lecturas recomendadas
+## Recursos recomendados
 
-- [SOLID Principles explicados (Wikipedia)](https://es.wikipedia.org/wiki/SOLID)
-- [SOLID Principles en FreeCodeCamp](https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/)
-- Robert C. Martin – "Clean Architecture"
-- [Design Principles and Design Patterns (Uncle Bob)](http://www.objectmentor.com/resources/articles/Principles_and_Patterns.pdf)
+- [Principio de inversión de la dependencia (wikipedia)](https://es.wikipedia.org/wiki/Principio_de_inversi%C3%B3n_de_la_dependencia)
+- [¿Cómo funciona el Principio de Inversión de Dependencias?](https://keepcoding.io/blog/principio-de-inversion-de-dependencias/)
+- [The Power of Dependency Inversion Principle (DIP) in Software Development](https://dev.to/tkarropoulos/the-power-of-dependency-inversion-principle-dip-in-software-development-4klk)
+- [Dependency Inversion Principle with Code Examples](https://stackify.com/dependency-inversion-principle/)
 
 ---
 

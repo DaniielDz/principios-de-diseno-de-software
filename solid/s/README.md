@@ -92,4 +92,13 @@ Consulta los ejemplos prácticos en distintos lenguajes en la carpeta [`ejemplos
 
 ---
 
+## Recursos recomendados
+
+- [Principio de responsabilidad única (wikipedia)](https://es.wikipedia.org/wiki/Principio_de_responsabilidad_%C3%BAnica)
+- [SOLID: Principio de Responsabilidad Única](https://dev.to/victorpinzon198/solid-principio-de-responsabilidad-unica-5ffo)
+- [The Single Responsibility Principle (SRP) of SOLID](https://giovannamoeller.medium.com/the-single-responsibility-principle-srp-of-solid-eb2feed0c64b)
+- [Principio de responsabilidad única en programación](https://keepcoding.io/blog/principio-de-responsabilidad-unica/)
+
+---
+
 > "Una clase debe tener una, y solo una, razón para cambiar." — Robert C. Martin

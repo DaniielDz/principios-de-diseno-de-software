@@ -80,12 +80,12 @@ function UserList() {
 
 ---
 
-## Bibliografía recomendada
+## Recursos recomendados
 
-- Robert C. Martin – “Clean Code: A Handbook of Agile Software Craftsmanship”
-- Steve McConnell – “Code Complete”
-- Martin Fowler – “Refactoring: Improving the Design of Existing Code”
-- Documentación y artículos sobre principios SOLID y buenas prácticas en TypeScript y React.
+- [Principio KISS (wikipedia)](https://es.wikipedia.org/wiki/Principio_KISS)
+- [El Principio KISS: mantenlo simple, estúpido](https://codeyourapps.com/el-principio-kiss-mantenlo-simple-estupido/)
+- [¿Qué es el principio KISS? (con ejemplos)](https://www.quelinka.com/blog/post/principio-kiss-ejemplos)
+- [KISS Principle in Software Development](https://www.geeksforgeeks.org/software-engineering/kiss-principle-in-software-development/)
 
 ---
 

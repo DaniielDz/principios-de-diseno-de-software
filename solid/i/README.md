@@ -107,12 +107,12 @@ Consulta los ejemplos prácticos en distintos lenguajes en la carpeta [`ejemplos
 
 ---
 
-## Recursos y lecturas recomendadas
+## Recursos recomendados
 
-- [SOLID Principles explicados (Wikipedia)](https://es.wikipedia.org/wiki/SOLID)
-- [SOLID Principles en FreeCodeCamp](https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/)
-- Robert C. Martin – "Clean Architecture"
-- [Design Principles and Design Patterns (Uncle Bob)](http://www.objectmentor.com/resources/articles/Principles_and_Patterns.pdf)
+- [Principio de segregación de la interfaz (wikipedia)](https://es.wikipedia.org/wiki/Principio_de_segregaci%C3%B3n_de_la_interfaz)
+- [SOLID: Principio de Segregación de Interfaces](https://dev.to/victorpinzon198/solid-principio-de-segregacion-de-interfaces-1018)
+- [Unleashing the Power of Interface Segregation: Building Flexible and Maintainable Software Systems](https://dev.to/tkarropoulos/unleashing-the-power-of-interface-segregation-building-flexible-and-maintainable-software-systems-2fgb)
+- [Interface Segregation Principle (ISP): SOLID Principle](https://medium.com/@ramdhas/4-interface-segregation-principle-isp-solid-principle-39e477bae2e3)
 
 ---
 

@@ -81,12 +81,13 @@ Consulta los ejemplos prácticos en distintos lenguajes en la carpeta [`ejemplos
 
 ---
 
-## Recursos y lecturas recomendadas
+## Recursos recomendados
 
-- [SOLID Principles explicados (Wikipedia)](https://es.wikipedia.org/wiki/SOLID)
-- [SOLID Principles en FreeCodeCamp](https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/)
-- Robert C. Martin – “Clean Architecture”
-- [Design Principles and Design Patterns (Uncle Bob)](http://www.objectmentor.com/resources/articles/Principles_and_Patterns.pdf)
+- [Principio de sustitución de Liskov (wikipedia)](https://es.wikipedia.org/wiki/Principio_de_sustituci%C3%B3n_de_Liskov)
+- [SOLID: Principio de Sustitución de Liskov](https://dev.to/victorpinzon198/solid-principio-de-sustitucion-de-liskov-4hne)
+- [El Principio de Substitución de Liskov](https://www.arquitecturajava.com/el-principio-de-substitucion-de-liskov/)
+- [Liskov Substitution Principle (LSP)](https://tusharghosh09006.medium.com/liskov-substitution-principle-lsp-744eceb29e8)
+- [Demystifying the Liskov Substitution Principle: A Guide for Developers](https://dev.to/tkarropoulos/demystifying-the-liskov-substitution-principle-a-guide-for-developers-3gmm)
 
 ---
 

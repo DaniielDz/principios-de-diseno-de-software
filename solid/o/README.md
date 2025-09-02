@@ -98,12 +98,12 @@ Consulta los ejemplos prácticos en distintos lenguajes en la carpeta [`ejemplos
 
 ---
 
-## Recursos y lecturas recomendadas
+## Recursos recomendados
 
-- [SOLID Principles explicados (Wikipedia)](https://es.wikipedia.org/wiki/SOLID)
-- [SOLID Principles en FreeCodeCamp](https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/)
-- Robert C. Martin – “Clean Architecture”
-- [Design Principles and Design Patterns (Uncle Bob)](http://www.objectmentor.com/resources/articles/Principles_and_Patterns.pdf)
+- [Principio de abierto/cerrado (wikipedia)](https://es.wikipedia.org/wiki/Principio_de_abierto/cerrado)
+- [SOLID: Principio de Abierto/Cerrado](https://dev.to/victorpinzon198/solid-principio-de-abierto-cerrado-2mjp)
+- [Open-Closed Principle – SOLID Architecture Concept Explained](https://www.freecodecamp.org/news/open-closed-principle-solid-architecture-concept-explained/)
+- [Open/Closed Principle(OCP) : SOLID Principle](https://medium.com/@ramdhas/2-open-closed-principle-ocp-solid-principle-cd12cbc6cb6e)
 
 ---
 

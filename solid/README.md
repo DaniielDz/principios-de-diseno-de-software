@@ -79,10 +79,10 @@ Imagina un sistema de facturación. Si aplicas SOLID:
 
 ## Recursos recomendados
 
-- Robert C. Martin – “Clean Architecture” y “Agile Software Development”
-- [SOLID Principles explicados](https://es.wikipedia.org/wiki/SOLID)
-- [SOLID en profundidad (Refactoring Guru)](https://refactoring.guru/es/design-patterns/solid-principles)
-- [SOLID para desarrolladores modernos](https://www.freecodecamp.org/news/solid-principles-explained-in-plain-english/)
+- [SOLID (wikipedia)](https://es.wikipedia.org/wiki/SOLID)
+- [Los principios SOLID de programación orientada a objetos explicados en Español sencillo](https://www.freecodecamp.org/espanol/news/los-principios-solid-explicados-en-espanol/)
+- [Principios SOLID: 5 claves para tu desarrollo de software](https://www.hackio.com/blog/principios-solid)
+- [SOLID: los 5 principios que te ayudarán a desarrollar software de calidad](https://profile.es/blog/principios-solid-desarrollo-software-calidad/)
 
 ---
 

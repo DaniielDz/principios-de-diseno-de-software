@@ -54,11 +54,12 @@ class Reporte {
 
 ---
 
-## Bibliografía recomendada
+## Recursos recomendados
 
-- Extreme Programming Explained – Kent Beck (introduce YAGNI)
-- Robert C. Martin – “Clean Code”
-- Documentación de buenas prácticas en TypeScript
+- [YAGNI (wikipedia)](https://es.wikipedia.org/wiki/YAGNI)
+- [Principio YAGNI: no vas a necesitarlo](https://codeyourapps.com/principio-yagni-no-vas-a-necesitarlo/)
+- [Principio YAGNI: evita la sobreingeniería](https://www.arsys.es/blog/principio-yagni-evita-la-sobreingenieria)
+- [YAGNI (You Aren't Gonna Need It) Principle Helps Devs Stay Efficient](https://builtin.com/software-engineering-perspectives/yagni)
 
 ---
 

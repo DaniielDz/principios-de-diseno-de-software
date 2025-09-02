@@ -75,12 +75,12 @@ function App() {
 
 ---
 
-## Bibliografía recomendada
+## Recursos recomendados
 
-- Robert C. Martin – “Clean Code” (capítulo sobre duplicación)
-- Steve McConnell – “Code Complete”
-- Martin Fowler – “Refactoring”
-- Documentación y guías de React y TypeScript sobre componentes reutilizables y hooks
+- [No te repitas (wikipedia)](https://es.wikipedia.org/wiki/No_te_repitas)
+- [¿Qué es el principio DRY en desarrollo web?](https://keepcoding.io/blog/que-es-dry-en-desarrollo-web/)
+- [El Principio DRY: No te repitas](https://codeyourapps.com/el-principio-dry-no-te-repitas/)
+- [DRY Principle in Software Development](https://www.geeksforgeeks.org/software-engineering/dont-repeat-yourselfdry-in-software-development/)
 
 ---
 
