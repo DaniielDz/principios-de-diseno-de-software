@@ -1,6 +1,7 @@
-# Principios de Diseño de Software
+# 🌟 Principios de Diseño de Software
 
-Bienvenido a este repositorio, donde encontrarás ejemplos y explicaciones sobre los principales **principios de diseño de software**: SOLID, KISS, DRY, YAGNI.
+Bienvenido a este repositorio, donde encontrarás ejemplos y explicaciones sobre los principales **principios de diseño de software**: SOLID, KISS, DRY, YAGNI, y cómo combinarlos con patrones de diseño.
+
 ---
 
 ## ¿Qué son los Principios de Diseño de Software?
@@ -16,27 +17,34 @@ A continuación, una breve descripción de cada uno:
 
 Aplicar estos principios mejora la calidad del software, facilita su evolución y reduce el riesgo de errores, permitiendo que los equipos trabajen de manera más eficiente y colaborativa.
 
-### ¿Por qué son importantes?
-
-- **Mantenibilidad:** Un buen diseño facilita la corrección de errores y la modificación del código.
-- **Escalabilidad:** El software se puede ampliar y adaptar a nuevas funcionalidades sin problemas.
-- **Eficiencia:** Un diseño bien estructurado reduce los tiempos de desarrollo y los recursos necesarios.
-- **Colaboración:** Un código limpio y comprensible mejora el trabajo en equipo.
-
-> "El buen diseño no es solo cómo se ve y se siente, sino cómo funciona." — Steve Jobs
-
 ---
 
 ## Índice
 
-1. [SOLID](solid/README.md)
-2. [KISS](kiss/README.md)
-3. [DRY](dry/README.md)
-4. [YAGNI](yagni/README.md)
+1. [SOLID](SOLID/README.md)
+2. [KISS](KISS/README.md)
+   - [Ejemplos por lenguaje](KISS/ejemplos/README.md)
+     - [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="20"/> TypeScript](KISS/ejemplos/typescript/README.md)
+     - [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20"/> Java](KISS/ejemplos/java/README.md)
+     - [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> Python](KISS/ejemplos/python/README.md)
+     - [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="20"/> C#](KISS/ejemplos/csharp/README.md)
+     - [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="20"/> PHP](KISS/ejemplos/php/README.md)
+     - [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="20"/> Ruby](KISS/ejemplos/ruby/README.md)
+     - [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="20"/> Go](KISS/ejemplos/go/README.md)
+3. [DRY](DRY/README.md)
+   - [Ejemplos por lenguaje](DRY/ejemplos/README.md)
+     - [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="20"/> TypeScript](DRY/ejemplos/typescript/README.md)
+     - [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20"/> Java](DRY/ejemplos/java/README.md)
+     - [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> Python](DRY/ejemplos/python/README.md)
+     - [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="20"/> C#](DRY/ejemplos/csharp/README.md)
+     - [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="20"/> PHP](DRY/ejemplos/php/README.md)
+     - [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="20"/> Ruby](DRY/ejemplos/ruby/README.md)
+     - [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="20"/> Go](DRY/ejemplos/go/README.md)
+4. [YAGNI](YAGNI/README.md)
 
 Cada carpeta contiene:
 - Un `README.md` con la explicación del principio.
-- Un archivo `example.js` con ejemplos de código ejecutables.
+- Un archivo `example.js` o equivalente con ejemplos de código ejecutables.
 
 ---
 
