@@ -22,6 +22,11 @@ Aplicar estos principios mejora la calidad del software, facilita su evolución 
 ## Índice
 
 1. [SOLID](solid/README.md)
+   - [S: Responsabilidad Única (SRP)](solid/s/README.md)
+   - [O: Abierto/Cerrado (OCP)](solid/o/README.md)
+   - [L: Sustitución de Liskov (LSP)](solid/l/README.md)
+   - [I: Segregación de Interfaces (ISP)](solid/i/README.md)
+   - [D: Inversión de Dependencias (DIP)](solid/d/README.md)
 2. [KISS](kiss/README.md)
    - [Ejemplos por lenguaje](kiss/ejemplos/README.md)
      - [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="20"/> TypeScript](kiss/ejemplos/typescript/README.md)
@@ -42,13 +47,13 @@ Aplicar estos principios mejora la calidad del software, facilita su evolución 
      - [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="20"/> Go](dry/ejemplos/go/README.md)
 4. [YAGNI](yagni/README.md)
    - [Ejemplos por lenguaje](yagni/ejemplos/README.md)
-        - [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="20"/> TypeScript](yagni/ejemplos/typescript/README.md)
-        - [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20"/> Java](yagni/ejemplos/java/README.md)
-        - [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> Python](yagni/ejemplos/python/README.md)
-        - [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="20"/> C#](yagni/ejemplos/csharp/README.md)
-        - [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="20"/> PHP](yagni/ejemplos/php/README.md)
-        - [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="20"/> Ruby](yagni/ejemplos/ruby/README.md)
-        - [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="20"/> Go](yagni/ejemplos/go/README.md)
+     - [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="20"/> TypeScript](yagni/ejemplos/typescript/README.md)
+     - [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="20"/> Java](yagni/ejemplos/java/README.md)
+     - [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> Python](yagni/ejemplos/python/README.md)
+     - [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="20"/> C#](yagni/ejemplos/csharp/README.md)
+     - [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="20"/> PHP](yagni/ejemplos/php/README.md)
+     - [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="20"/> Ruby](yagni/ejemplos/ruby/README.md)
+     - [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="20"/> Go](yagni/ejemplos/go/README.md)
 
 Cada principio tiene:
 
