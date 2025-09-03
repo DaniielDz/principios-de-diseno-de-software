@@ -14,29 +14,9 @@ Este principio ayuda a evitar acoplamientos innecesarios y facilita el mantenimi
 
 ---
 
-## Diagrama explicativo
+## Representación visual
 
-El Interface Segregation Principle se puede visualizar como la diferencia entre una "interfaz gorda" y múltiples "interfaces delgadas":
-
-```
-ANTES (Violando ISP):           DESPUÉS (Cumpliendo ISP):
-┌─────────────────┐             ┌─────────────┐  ┌─────────────┐  ┌─────────────┐
-│   Interfaz      │             │ Interfaz A  │  │ Interfaz B  │  │ Interfaz C  │
-│   "GORDA"       │             │ (delgada)   │  │ (delgada)   │  │ (delgada)   │
-│                 │             │             │  │             │  │             │
-│ • método1()     │             │ • método1() │  │ • método2() │  │ • método3() │
-│ • método2()     │             └─────────────┘  └─────────────┘  └─────────────┘
-│ • método3()     │                     │               │               │
-│ • método4()     │                     └───────────────┼───────────────┘
-│ • método5()     │                                     │
-└─────────────────┘                                     │
-         │                                               │
-         └───────────────────────────────────────────────┘
-```
-
-**Descripción:**
-- **Antes:** Una interfaz "gorda" que contiene muchos métodos, forzando a los clientes a implementar funcionalidades que no necesitan.
-- **Después:** Múltiples interfaces "delgadas" y específicas, donde cada cliente solo implementa lo que realmente necesita.
+![Principio de Segregación de Interfaces](../../src/solid/i/i.png)
 
 ---
 

@@ -13,40 +13,9 @@ Este principio fomenta la creación de sistemas flexibles y robustos, donde los 
 
 ---
 
-## Diagrama explicativo
+## Representación visual
 
-El Open/Closed Principle se puede visualizar como la extensión sin modificación:
-
-```
-ANTES (Violando OCP):           DESPUÉS (Cumpliendo OCP):
-┌─────────────────┐             ┌─────────────────┐
-│ FacturaPersistence│             │ FacturaPersistence│
-│   (MODIFICABLE)  │             │   (INTERFAZ)    │
-│                 │             │                 │
-│ • saveToFile()  │             │ • save()        │
-│ • saveToDB()    │             └─────────┬───────┘
-│ • saveToCloud() │                       │
-└─────────────────┘                       │ implementa
-         │                               │
-         │ MODIFICA                      ▼
-         ▼                       ┌─────────────────┐
-┌─────────────────┐             │  FilePersistence │
-│   NUEVA FUNC.   │             │                 │
-│                 │             │ • save()        │
-│ • saveToAPI()   │             └─────────────────┘
-└─────────────────┘                       │
-                                         │
-                                         ▼
-                                ┌─────────────────┐
-                                │DatabasePersistence│
-                                │                 │
-                                │ • save()        │
-                                └─────────────────┘
-```
-
-**Descripción:**
-- **Antes:** Para agregar nueva funcionalidad, se modifica la clase existente, violando OCP.
-- **Después:** Se extiende mediante nuevas implementaciones de la interfaz, sin modificar código existente.
+![Principio de Abierto/Cerrado](../../src/solid/o/o.png)
 
 ---
 

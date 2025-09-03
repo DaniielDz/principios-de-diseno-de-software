@@ -13,14 +13,9 @@ Este principio ayuda a evitar errores sutiles y facilita la extensibilidad y el 
 
 ---
 
-## Diagrama explicativo
+## Representación visual
 
-<img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*wk3Txs5r-0CZXYR-Ec0RYw.png" width="400"/>
-
-**Descripción:**
-- En lugar de tener una sola jerarquía mal diseñada (por ejemplo, una clase Vehicle con métodos que no aplican a todos), aquí se divide la jerarquía en interfaces especializadas.
-- Así se evita que una clase deba implementar métodos que no le corresponden (ejemplo: una bicicleta nunca debería tener startEngine()).
-- Este diseño respeta el principio de Liskov, porque cualquier clase que implemente Vehicle puede usarse sin romper el contrato esperado: todos saben iniciarse y moverse, aunque cada uno lo haga de manera distinta.
+![Principio de Sustitución de Liskov](../../src/solid/l/l.png)
 
 ---
 

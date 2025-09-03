@@ -15,35 +15,9 @@ Este principio ayuda a crear sistemas más flexibles, mantenibles y testeables a
 
 ---
 
-## Diagrama explicativo
+## Representación visual
 
-El Dependency Inversion Principle se puede visualizar como la inversión de las dependencias tradicionales:
-
-```
-ANTES (Violando DIP):           DESPUÉS (Cumpliendo DIP):
-┌─────────────────┐             ┌─────────────────┐
-│   Módulo Alto   │             │   Módulo Alto   │
-│     Nivel       │             │     Nivel       │
-└─────────┬───────┘             └─────────┬───────┘
-          │                               │
-          │ depende de                    │ depende de
-          ▼                               ▼
-┌─────────────────┐             ┌─────────────────┐
-│   Módulo Bajo   │             │   Abstracción   │
-│     Nivel       │             │   (Interfaz)    │
-└─────────────────┘             └────────┬────────┘
-                                         │
-                                         │ implementa
-                                         ▼
-                                ┌─────────────────┐
-                                │   Módulo Bajo   │
-                                │     Nivel       │
-                                └─────────────────┘
-```
-
-**Descripción:**
-- **Antes:** El módulo de alto nivel depende directamente del módulo de bajo nivel, creando acoplamiento fuerte.
-- **Después:** Ambos módulos dependen de una abstracción, permitiendo que el módulo de bajo nivel sea intercambiable.
+![Principio de Inversión de Dependencias](../../src/solid/d/d.png)
 
 ---
 

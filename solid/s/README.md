@@ -15,29 +15,9 @@ Aplicar SRP ayuda a que el código sea más fácil de mantener, probar y extende
 
 ---
 
-## Diagrama explicativo
+## Representación visual
 
-El Single Responsibility Principle se puede visualizar como la separación de responsabilidades en clases específicas:
-
-```
-ANTES (Violando SRP):           DESPUÉS (Cumpliendo SRP):
-┌─────────────────┐             ┌─────────────────┐  ┌─────────────────┐
-│     Factura     │             │     Factura     │  │  ServicioCorreo │
-│   (MÚLTIPLES    │             │   (UNA SOLA     │  │   (UNA SOLA     │
-│ RESPONSABILIDADES)│             │ RESPONSABILIDAD) │  │ RESPONSABILIDAD) │
-│                 │             │                 │  │                 │
-│ • calcularTotal │             │ • calcularTotal │  │ • enviarCorreo  │
-│ • enviarCorreo  │             └─────────────────┘  └─────────────────┘
-│ • validarDatos  │                     │                     │
-│ • guardarBD     │                     └─────────────────────┘
-└─────────────────┘                           │
-         │                                   │
-         └───────────────────────────────────┘
-```
-
-**Descripción:**
-- **Antes:** Una clase con múltiples responsabilidades, violando SRP.
-- **Después:** Clases separadas, cada una con una única responsabilidad específica.
+![Principio de Responsabilidad Única](../../src/solid/s/s.png)
 
 ---
 
